@@ -15,7 +15,7 @@ First, when you go to the dashboard, you have to mouse over the section to see t
 
 ![Fitbit dashboard](https://f.cloud.github.com/assets/19977/1831307/c0504040-7389-11e3-9f8d-dad258a544bf.png)
 
-Then, click on the "Year" tab. But you'll notice that you _still_ don't see summary data. You have to click on the little back link.
+#Then, click on the "Year" tab. But you'll notice that you _still_ don't see summary data. You have to click on the little back link.
 
 ![Fitbit activity without totals](https://f.cloud.github.com/assets/19977/1831304/ba066dc2-7389-11e3-9ded-b2806c950283.png)
 
