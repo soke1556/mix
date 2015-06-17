@@ -1,4 +1,4 @@
-![Codealike](http://testing.codealike.com/solution/factsmini/e9dab14f-ea39-4e3d-b0c9-f99aa3345304)
+![Codealike](http://testing.codealike.com/solution/factsmini/e9dab14f-ea39-4e3d-b0c9-f99aa3345304.svg)
 
 | sdfsdf | fsdf | sdfsd |   |   |
 |--------|------|-------|---|---|
