@@ -1,6 +1,11 @@
 ![Codealike](http://testing.codealike.com/solution/factsmini/e9dab14f-ea39-4e3d-b0c9-f99aa3345304.svg?raw=true)
 [![codealike Codealike Solution Widget](https://testing.codealike.com/solution/factsmini/e9dab14f-ea39-4e3d-b0c9-f99aa3345304)](https://www.codealike.com/)
 
+![Alt text](http://potherca.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
+
+
+[![dotnetpretty MyGet Build Status](https://www.myget.org/BuildSource/Badge/dotnetpretty?identifier=d653297a-7de1-4719-9507-cf0bb2c87d2c)](https://www.myget.org/)
+
 | sdfsdf | fsdf | sdfsd |   |   |
 |--------|------|-------|---|---|
 |        |      |       |   |   |
